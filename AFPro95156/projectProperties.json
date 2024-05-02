@@ -255,7 +255,8 @@
     "camerasettings": "",
     "category": "app",
     "chat": "false",
-    "cloud_account_guid": "36dadd2d-8bf8-4c99-9e3d-07801648e728",
+    "cloud_account_guid": "8682a944-078b-40b4-8e4a-bd8de4b81edf",
+    "cloud_env_GUID": "3114a806-2068-4a2d-814c-7f55803f7899",
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
@@ -365,6 +366,14 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
+    "kfAppInfo": {
+        "8682a944-078b-40b4-8e4a-bd8de4b81edf": {
+            "appName": "AFPro95156",
+            "baseId": "d78fd1b7-7898-445a-8949-bc74f0cda073",
+            "id": "d78fd1b7-7898-445a-8949-bc74f0cda073",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "9.5.328",
     "lastmodifiedtime": "1714135952925",
     "location": "false",

@@ -255,7 +255,8 @@
     "camerasettings": "",
     "category": "app",
     "chat": "false",
-    "cloud_account_guid": "8682a944-078b-40b4-8e4a-bd8de4b81edf",
+    "cloud_account_guid": "f86b69c7-4e40-4ca5-a30b-73bc7b266d64",
+    "cloud_env_GUID": "ddec3937-759c-42ea-a69c-c13fb0e8516b",
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
@@ -366,6 +367,20 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
+    "kfAppInfo": {
+        "8682a944-078b-40b4-8e4a-bd8de4b81edf": {
+            "appName": "AF02M329Sit",
+            "baseId": "5331c6fb-e34a-4eb5-9bec-82d9ad4b5005",
+            "id": "5331c6fb-e34a-4eb5-9bec-82d9ad4b5005",
+            "version": "1.0"
+        },
+        "f86b69c7-4e40-4ca5-a30b-73bc7b266d64": {
+            "appName": "AF02M329Sit",
+            "baseId": "ccfceb42-5a02-43d6-93d6-9bab721d4b47",
+            "id": "ccfceb42-5a02-43d6-93d6-9bab721d4b47",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "9.5.329",
     "lastmodifiedtime": "1714630202404",
     "location": "false",
