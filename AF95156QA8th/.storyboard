@@ -1,0 +1,20 @@
+{
+    "models": {
+        "desktop": {
+            "default": {
+                "class": "GraphLinksModel",
+                "linkDataArray": [],
+                "nodeDataArray": [
+                    {
+                        "formKUID": "ea9040cc55684e30bd22e7d05e2a8921",
+                        "formName": "Form1",
+                        "isStartupForm": true,
+                        "key": "ea9040cc55684e30bd22e7d05e2a8921",
+                        "loc": "8 24.845263671875003",
+                        "thumbnailURL": null
+                    }
+                ]
+            }
+        }
+    }
+}
